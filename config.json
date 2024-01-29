@@ -1,0 +1,7 @@
+{
+
+  "token": "Put bot token here", 
+  "channel_id": "put channel id here, this is the channel you want to use the bot in", 
+  "API_KEY": "put your api key here" 
+
+}
